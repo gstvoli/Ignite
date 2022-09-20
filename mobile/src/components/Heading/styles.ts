@@ -14,5 +14,6 @@ export const styles = StyleSheet.create({
   subTitle: {
     color: THEME.COLORS.CAPTION_400,
     fontSize: THEME.FONT_SIZE.MD, 
+    fontFamily: THEME.FONT_FAMILY.REGULAR
   }
 });
