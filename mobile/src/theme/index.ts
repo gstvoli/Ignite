@@ -5,6 +5,7 @@ export const THEME = {
 
     TEXT: '#FFFFFF',
 
+    CAPTION_900: '#000',
     CAPTION_500: '#71717A',
     CAPTION_400: '#A1A1AA',
     CAPTION_300: '#D4D4D8',
@@ -15,7 +16,7 @@ export const THEME = {
     SUCCESS: '#34D399',
     ALERT: '#F87171',
 
-    FOOTER: ['rgba(0,0,0,0)', 'rgba(0,0,0,0.9)'],
+    FOOTER: ['rgba(0,0,0,0)', '#8B5CF6'],
     OVERLAY: 'rgba(0,0,0,0.6)',
   },
 
