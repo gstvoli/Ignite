@@ -23,10 +23,10 @@ export const styles = StyleSheet.create({
     height: 40
   },
   cover: {
-    width: 311,
-    height: 160,
+    width: 325,
+    height: 250,
     borderRadius: 8,
-    marginTop: 32
+    marginTop: 32,
   },
   containerList: {
     width: '100%'

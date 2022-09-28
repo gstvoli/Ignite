@@ -49,7 +49,7 @@ export function DuoCard({data, onConnect}: Props) {
         <GameController
           color={THEME.COLORS.TEXT}
           size={20}
-        />
+        />  
 
         <Text style={styles.buttonTitle}>
           Conectar

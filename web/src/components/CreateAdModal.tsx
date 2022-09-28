@@ -43,7 +43,7 @@ export function CreateAdModal(){
         weekDays:  weekDays.map(Number),
         hourStart: data.hourStart,
         hourEnd: data.hourEnd,
-        useVoiceChannel: data.useVoiceChannel
+        useVoiceChannel: useVoiceChannel
       })
       alert('Anúncio criado com sucesso!')
     }catch (err) {
